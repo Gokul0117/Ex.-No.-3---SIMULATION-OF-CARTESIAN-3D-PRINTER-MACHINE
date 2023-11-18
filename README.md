@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![EX3](https://github.com/Gokul0117/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121165938/16f1b3f8-a020-45b3-9f2d-14d3a5c755f2)
+
+### Name: GOKUL J
+### Register Number: 212222230038
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
